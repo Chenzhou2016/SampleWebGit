@@ -56,8 +56,12 @@
   </properties>
   <distributionManagement>
     <repository>
+      <!-- 
         <id>localDeploy</id>
-        <url>file:///home/helen/Dev/repositories/releases</url>
+        <url>file:///home/helen/Dev/repositories/releases</url> 
+       -->
+        <id>nexus</id>
+        <url>http://52.230.17.28:8081/nexus/content/repositories/releases/</url> 
     </repository>
   </distributionManagement>
 </project>
