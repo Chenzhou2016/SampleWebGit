@@ -3,7 +3,7 @@
   <groupId>com.sample</groupId>
   <artifactId>SampleWebGit</artifactId>
   <packaging>war</packaging>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <name>SampleWebGit Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -49,7 +49,7 @@
  </build>
  <scm>
     <developerConnection>scm:git:https://github.com/Chenzhou2016/SampleWebGit.git</developerConnection>
-    <tag>SampleWebGit-1.1</tag>
+    <tag>HEAD</tag>
   </scm>
   <properties>
     <project.scm.id>SampleWebGit</project.scm.id>
