@@ -23,7 +23,7 @@
 	<version>2.2</version>
 	<configuration>
 	  <path>/${project.artifactId}-${project.version}</path>
-	  <url>http://52.230.17.28:8080/manager/text</url>
+	  <url>http://13.76.140.77:8080/manager/text</url>
           <username>admin</username>
           <password>adminadmin</password>
           <update>true</update>
@@ -61,7 +61,7 @@
         <url>file:///home/helen/Dev/repositories/releases</url> 
        -->
         <id>nexus</id>
-        <url>http://52.230.17.28:8081/nexus/content/repositories/releases/</url> 
+        <url>http://13.76.140.77:8081/nexus/content/repositories/releases/</url> 
     </repository>
   </distributionManagement>
 </project>
